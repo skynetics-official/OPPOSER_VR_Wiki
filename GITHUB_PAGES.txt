@@ -1,0 +1,9 @@
+GitHub Pages:
+1. Создай публичный repository.
+2. Загрузи СОДЕРЖИМОЕ этой папки в корень репозитория.
+3. Settings -> Pages.
+4. Source: Deploy from a branch.
+5. Branch: main, folder / (root).
+6. Save.
+
+Фильтры тегов сохраняются в URL параметрах ?tag=... и работают на GitHub Pages без сервера.

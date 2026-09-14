@@ -1,0 +1,22 @@
+OPPOSER VR — ATTACHMENTS ИЗ SPAWN ITEM
+
+Прицелы:
+- Reflex Sight
+- EOTech Sight
+- Sniper Scope
+- ACOG Sight
+
+Глушители:
+- Rifle Silencer
+- SMG Rail Silencer
+- Refined Pistol Silencer
+- Pistol Silencer
+- Sniper Silencer
+
+Другие обвесы:
+- Flashlight Attachment
+- Laser Attachment
+- Grip Attachment
+
+Всего: 12 attachments.
+Источник названий: in-game Admin → SPAWN ITEM.

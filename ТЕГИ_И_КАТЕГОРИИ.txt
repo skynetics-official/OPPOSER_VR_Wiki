@@ -1,0 +1,43 @@
+OPPOSER VR WIKI v13 — ТЕГИ И КАТЕГОРИИ
+
+=== ОСНОВНЫЕ КАТЕГОРИИ ===
+Оружие: 59
+Utility / misc: 16
+Обвесы: 12
+Ближний бой: 10
+Еда / расходники: 8
+Pouches / боеприпасы: 2
+Щиты: 2
+
+=== ПОДТИПЫ ===
+Винтовки / Long guns: 17
+Пистолеты: 15
+Melee оружие: 10
+Дробовики: 9
+SMG / ПП: 8
+Еда: 8
+Special / Heavy: 7
+Глушители: 5
+Прицелы: 4
+Props: 3
+Special Props: 3
+Utility: 3
+Другие обвесы: 3
+Револьверы: 3
+Pouches: 2
+Щиты: 2
+Special / Misc: 1
+Special Item: 1
+TT Utility: 1
+Валюта: 1
+Инструменты: 1
+Инструменты / Misc: 1
+Косметика / Tool: 1
+
+=== ДОПОЛНИТЕЛЬНЫЕ ТЕГИ ===
+Есть Wiki page: 48
+Special Pistol: 6
+Attachment в названии: 3
+Heavy / Special Weapon: 3
+Launcher: 2
+Traitor Trouble: 1
