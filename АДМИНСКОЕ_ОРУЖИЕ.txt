@@ -1,0 +1,9 @@
+OPPOSER VR — Админское оружие / Private Server
+
+В отдельный тег добавлены пушки, которые текущий Weapon List указывает как оружие, доступное только для спавна на private servers:
+
+- Pumpkin Launcher
+- Pre-Alpha M4A1
+- Super Accelerator
+
+На сайте они помечены ADMIN / PRIVATE и доступны через тег «Админское оружие / Private Server».
